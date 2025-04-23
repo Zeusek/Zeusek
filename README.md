@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Zeusek/Zeusek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+<table> 
+  <thead>
+    <th>Zeusek</th>
+  </thead>
+  <tbody align='center'>
+    <td>This is my github profile</td>
+  </tbody>
+  <tfooter>
+    <td align='center'><img loading='eager' src='https://avatars.githubusercontent.com/u/33155636?s=200&u=1239d809ba66266bb9bd7eba8d6e8f826f5814ad&v=4'/></td>
+  </tfooter>
+</table>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="1000px">
+  <thead>
+    <th rowspan=2>Lorem ipsum</th>
+    <th>
+        💀
+    </th>
+  </thead>
+  <tbody>
+    <td colspan=2>
+      dolor sit amet, consectetur adipiscing elit. Quisque eget vestibulum ante. Etiam et erat libero.
+    </td>
+  </tbody>
+  <tfooter>
+    <td width="1000px" align='right'>
+      Created with 🤍 using HTML
+    </td>
+  </tfooter>
+</table>
